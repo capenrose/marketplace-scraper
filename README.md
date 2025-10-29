@@ -15,4 +15,4 @@ information from it, writing it into the "marketplace.csv" file. The data extrac
 both the listing itself and the profile of the one who listed it. The script is set to run for the first 20 listings (including sponsorships, which will be skipped over), but that number can be modified
 on line 38.
 
-The "marketplace.csv" file here has real data, I removed the links to the seller profiles for their privacy.
+The "marketplace.csv" file included here has real data, I removed the links to the seller profiles for their privacy.
